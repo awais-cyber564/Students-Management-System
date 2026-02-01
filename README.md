@@ -1,40 +1,79 @@
-<<<<<<< HEAD
-# python-projects
-My Python practice and projects
-=======
-# Student Management System (Python)
+🎓 Student Management System (Python)
 
-A simple **Student Management System** built using Python.  
-This project allows you to **add, view, update, delete, and search students** with data stored in a JSON file.
+A beginner-friendly Student Management System developed in Python, designed to help manage student records easily.
+This project uses a JSON file as a lightweight database to store data permanently.
 
----
+✨ Key Features
 
-## 🚀 Features
+➕ Add new student records
 
-- Add new students with validation
-- View all students
-- Update student details
-- Delete student records
-- Search students by:
-  - Name
-  - Roll number
-  - Class
-  - Email
-- Email format validation
-- Unique roll number check
-- Data persistence using JSON file
+📋 Display all students
 
----
+✏️ Edit / update student information
 
-## 🛠️ Technologies Used
+❌ Remove student records
 
-- Python 3
-- JSON (for data storage)
-- Regular Expressions (email validation)
-- File Handling
+🔍 Search students by:
 
----
+Name
 
-## 📂 Project Structure
+Roll Number
 
->>>>>>> 4a82808 (First python project)
+Class
+
+Email
+
+📧 Email format validation using Regex
+
+🔐 Ensures unique roll numbers
+
+💾 Persistent storage with JSON file
+
+🧰 Tools & Technologies
+
+Python 3
+
+JSON (data storage)
+
+Regex (email validation)
+
+📂 Project Layout
+student-management-system/
+│
+├── main.py
+├── students.json
+├── README.md
+├── .gitignore
+└── requirements.txt
+
+▶️ How to Run
+
+1️⃣ Clone the repository
+
+git clone https://github.com/your-username/student-management-system.git
+
+
+2️⃣ Go to the project directory
+
+cd student-management-system
+
+
+3️⃣ Run the program
+
+python main.py
+
+🔮 Future Enhancements
+
+🖥️ Graphical User Interface (Tkinter)
+
+🗄️ Database support (MySQL / SQLite)
+
+🔑 Login & authentication system
+
+📤 Export student data to CSV
+
+👨‍💻 Author
+
+Awais
+📍 Python & Cyber Security Learner
+🧪 Beginner Python Project
