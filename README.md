@@ -49,11 +49,11 @@ student-management-system/
 
 ▶️ How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/awais-cyber564/python-projects.git
+git clone https://github.com/awais-cyber564/Students.Management.System.git
 
 
 2️⃣ Navigate to the project folder
-cd python-projects
+cd Students.Management.System
 
 
 3️⃣ Run the program
